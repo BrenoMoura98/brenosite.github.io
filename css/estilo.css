@@ -1,0 +1,82 @@
+
+nav li{
+	display: inline;
+	margin-right: 15px;
+	margin-left: 35px;	
+}
+nav ul{
+    margin: 0px;
+    font-family: Times;
+    background-color: #1E90FF;
+    padding: 8px 5px;
+}
+a{
+    text-decoration: none;
+}
+
+nav a{
+    color: black;
+    padding: 8px 2px;
+}
+nav a:hover{
+    color: white;
+    background-color:#D3D3D3;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+body{
+	margin: 0 0 0 0;
+}
+main h1{
+	text-align: center;
+	font-family: Times;
+	font-size: 50px;
+	padding-top: 100px;
+}
+
+section h2{
+	text-align: center;
+	font-family: Times;
+	font-size: 50px;
+	padding-top: 20px;
+}
+footer{
+    clear: both;
+    display: flex;
+    justify-content: space-around;
+    background-color: #1E90FF; 
+   
+}
+#conhecimentos{
+	padding: 30px;
+	margin: 20px;
+	left: 100px;
+}
+.rodapé{
+	font-family: Arial, Helvitica, sans-serif;
+	font-size: 15px;
+}
+
+
+#img{
+	margin: auto;
+	left: 0;
+	right: 0;
+	position: absolute;
+	top: 0;
+	bottom: 580px;
+}
+#descrição{
+    text-align: center;
+    color: 	black;
+    font-family: Brush Script Std;
+    font-size: 22px;
+    font-color: black;
+    padding: 30px;
+}
+#enviar{
+	margin: 40px;
+	margin-left: 600px;
+	
+}
